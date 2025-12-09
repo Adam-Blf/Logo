@@ -4,6 +4,14 @@
 
 ![Dernier commit](https://img.shields.io/github/last-commit/Adam-Blf/Logo?style=flat&logo=git&logoColor=white&color=0080ff&label=Dernier%20commit) ![Langage principal](https://img.shields.io/github/languages/top/Adam-Blf/Logo?style=flat&logo=git&logoColor=white&color=0080ff&label=Langage%20principal) ![Nombre de langages](https://img.shields.io/github/languages/count/Adam-Blf/Logo?style=flat&logo=git&logoColor=white&color=0080ff&label=Nombre%20de%20langages)
 
+## 📝 Description
+Projet lié à la gestion ou création de logos.
+
+## ⚡ Fonctionnalités
+- Traitement d'image
+- Gestion de logos
+
+
 ### Construit avec les outils et technologies : 
 
 
